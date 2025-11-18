@@ -3,6 +3,8 @@
 VBW: Very Bad Words is an AI‑curated multilingual profanity wordlist focused on actual strong profanity and highly abusive language. The wordlist can be used to filter content such as usernames, with less risk of being over‑aggressive.
 Uses AI vibe coded processing scripts, but curated by a programmer.
 
+The full, generated wordlist is available in [`vbw.csv`](vbw.csv).
+
 > ⚠️ **Content warning:**  
 > This repository contains files with strong profanity, because that is the point.
 
@@ -40,8 +42,7 @@ py classify.py
 py review.py
 ```
 
-This will read the data sources and collect them into a single profanity_aggregate.csv, then run classifier to filter the easy ones out, then run Gemini 2.5 Flash queries to fully review the results.
-It will then filter the reviews by the LLM review, leaving only the very bad words in vbw.csv, not mild ones and definitely not someone's name.
+This will read the data sources and collect them into a single profanity_aggregate.csv, then run the classifier to filter out the easy cases, and finally run Gemini 2.5 Flash queries to fully review the results. It then filters based on the LLM review, leaving only the very bad words in vbw.csv. Not mild terms and definitely not someone’s name.
 
 ---
 
