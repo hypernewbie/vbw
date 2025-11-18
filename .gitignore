@@ -1,0 +1,30 @@
+# Generated files
+profanity_aggregate.csv
+vbw_classify_log.txt
+
+# Cache directories
+hf_model_cache/
+
+# IDE and editor configurations
+.vscode/
+
+# Version control specific files
+.github/
+
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.tox/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
