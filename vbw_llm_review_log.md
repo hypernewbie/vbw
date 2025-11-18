@@ -11,6 +11,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -19,22 +20,19 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ Doof @@@@ Explicitly stated by the user as a mild term that is "fine". It refers to a foolish or stupid person. @@@@
-@@@@ Anita @@@@ Explicitly stated by the user as a name that is "fine". It is a common female given name. @@@@
-@@@@ Azazel @@@@ A proper noun, a name from religious texts (a demon or a scapegoat ritual). It is a name, not a vulgar term. @@@@
-@@@@ b to the inch @@@@ This phrase is not a recognized profanity. It appears to be a nonsensical or incomplete phrase without any inherent extreme vulgarity. @@@@
-@@@@ bander @@@@ A common English word meaning someone who places bands (e.g., bird bander). It has no inherent profane meaning. @@@@
-@@@@ banger @@@@ Can refer to a sausage, an old car, or something excellent. While it has sexual slang connotations, on its own, it is not "really extreme profanity" and is often benign. @@@@
-@@@@ banging @@@@ Can refer to making a loud noise or hitting. While it can also be slang for sexual intercourse, on its own, it is not "really extreme profanity" and has many benign uses. @@@@
-@@@@ barenaked @@@@ Describes a state of being completely nude. It is descriptive and not inherently vulgar or profane like other words on the list. @@@@
-@@@@ barface @@@@ This is not a recognized English profanity or insult. It appears to be a non-standard or made-up term without extreme vulgarity. @@@@
-@@@@ barfface @@@@ "Barf" means vomit. "Barfface" is crude but does not rise to the level of "really extreme profanity" like sexually explicit or deeply offensive slurs. @@@@
-@@@@ barmok @@@@ This is not a recognized English profanity. It appears to be a non-standard word, possibly a misspelling or obscure foreign word without an obvious extreme profane meaning. @@@@
-@@@@ barmot @@@@ This is not a recognized English profanity. It appears to be a non-standard word, possibly a misspelling or obscure foreign word without an obvious extreme profane meaning. @@@@
-@@@@ bates @@@@ A common English surname. As per user instructions, names are considered non-extreme. @@@@
-@@@@ belazeren @@@@ A Dutch verb meaning "to swindle" or "to deceive." It is not a profanity in Dutch or English. @@@@
-@@@@ belino @@@@ An Italian word, a diminutive of "bello" (beautiful), meaning "pretty little thing" or a given name. It is not profanity. @@@@
-@@@@ biga @@@@ An Italian word meaning "chariot" or "two-horse team." It is not profanity in Italian or English. @@@@
+@@@@ Doof @@@@ This term means a stupid or foolish person, similar to 'doofus'. It is a mild insult, not extreme profanity. @@@@
+@@@@ Anita @@@@ This is a common female given name. @@@@
+@@@@ azazel @@@@ This is a name, often associated with a demon in religious texts. It is not a profanity. @@@@
+@@@@ b to the inch @@@@ This phrase has no commonly recognized profanity meaning. @@@@
+@@@@ bander @@@@ This is a Spanish word meaning 'to wave' (a flag). It is not a profanity. @@@@
+@@@@ barenaked @@@@ This term describes being completely nude. While related to nudity, it is a descriptive term, not inherently a vulgar or extreme profanity. @@@@
+@@@@ barface @@@@ This is an insult suggesting an unattractive face, but it is not a sexual or scatological vulgar term. @@@@
+@@@@ barfface @@@@ This is an insult suggesting an unattractive face, but it is not a sexual or scatological vulgar term. @@@@
+@@@@ barmok @@@@ This word is not a recognized English profanity. @@@@
+@@@@ barmot @@@@ This word is not a recognized English profanity. @@@@
+@@@@ bates @@@@ This is a common surname. @@@@
+@@@@ belazeren @@@@ This is a Dutch word meaning 'to cheat' or 'to swindle'. It is not a profanity. @@@@
+@@@@ biga @@@@ This is an Italian word meaning 'chariot' or 'two-horse team'. It is not a profanity. @@@@
 ```
 
 ---
@@ -48,6 +46,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -56,21 +55,24 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ bite @@@@ Common verb, not profanity. @@@@
-@@@@ biteme @@@@ Mild insult, similar to 'doofus'. @@@@
-@@@@ bitte @@@@ German for 'please', not profanity. @@@@
-@@@@ blacks @@@@ Demographic term, not profanity itself. @@@@
-@@@@ bloblos @@@@ No common profane meaning. @@@@
-@@@@ bobo @@@@ Spanish for 'fool/silly', similar to 'doofus'. @@@@
-@@@@ bomd @@@@ Likely a typo, no common profane meaning. @@@@
-@@@@ bong @@@@ Refers to a smoking device, not a profanity. @@@@
-@@@@ bonze @@@@ Buddhist priest, not profanity. @@@@
-@@@@ brackmard @@@@ No common profane meaning. @@@@
-@@@@ brutta @@@@ Italian for 'ugly', similar to 'doofus'. @@@@
-@@@@ buffelen @@@@ Dutch for 'to butt' (headbutt), not profanity. @@@@
-@@@@ buffies @@@@ No common profane meaning. @@@@
-@@@@ bukszák @@@@ Hungarian for 'wallet', not profanity. @@@@
-@@@@ bumbum @@@@ Childish term for 'buttocks' or onomatopoeia, not 'really extreme' profanity. @@@@
+@@@@ bitchin @@@@ Slang for "excellent" or "cool", not inherently extreme profanity in this context. @@@@
+@@@@ bitchin' @@@@ Slang for "excellent" or "cool", not inherently extreme profanity in this context. @@@@
+@@@@ bite @@@@ A common English verb, not inherently profane. @@@@
+@@@@ biteme @@@@ A mild informal insult, not strong profanity. @@@@
+@@@@ bitte @@@@ A German word meaning "please". @@@@
+@@@@ blacks @@@@ A neutral descriptive term for people, not inherently profane, although it can be used in a derogatory context. @@@@
+@@@@ bobo @@@@ A Spanish word meaning "foolish" or "stupid", similar to 'doof'. @@@@
+@@@@ bogan @@@@ An Australian/NZ informal derogatory term for an unsophisticated person, not extreme profanity. @@@@
+@@@@ bomd @@@@ Unclear; likely a misspelling of a non-profane word or a very mild term. @@@@
+@@@@ bong @@@@ A term for a type of smoking device, not profanity itself. @@@@
+@@@@ bonze @@@@ A term for a Buddhist monk, not profanity. @@@@
+@@@@ bourré @@@@ A French word meaning "drunk" or "stuffed"; in the context of being drunk, it's a state, not extreme profanity. @@@@
+@@@@ bourrée @@@@ A French word for a type of dance, not profanity. @@@@
+@@@@ brackmard @@@@ An uncommon word without a widely recognized extreme profane meaning. @@@@
+@@@@ breasts @@@@ An anatomical term that is not inherently vulgar or profane, unlike terms specified as 'not fine'. @@@@
+@@@@ brutta @@@@ An Italian word meaning "ugly" (feminine), similar to 'doof'. @@@@
+@@@@ buffelen @@@@ A Dutch verb meaning "to buck" or "to ram", not profane. @@@@
+@@@@ buffies @@@@ No widely recognized profane meaning. @@@@
 ```
 
 ---
@@ -84,6 +86,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -92,20 +95,18 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ bylsiä @@@@ Finnish, meaning "to mess up" or "to ruin." @@@@
-@@@@ caciocappella @@@@ Italian, meaning "cheese hat." @@@@
-@@@@ camelo @@@@ Spanish/Portuguese, meaning "camel." @@@@
-@@@@ cara de pau @@@@ Portuguese, meaning "wooden face" or "shameless." @@@@
-@@@@ chcanky @@@@ Czech, meaning "piss" or "urine." @@@@
-@@@@ chesticle @@@@ A crude, humorous term for a breast. @@@@
-@@@@ chesticles @@@@ Plural of chesticle. @@@@
-@@@@ chiappa @@@@ Italian, meaning "buttock." @@@@
-@@@@ chinaswede @@@@ A descriptive term for someone of Chinese and Swedish heritage. @@@@
-@@@@ chinaswedes @@@@ Plural of chinaswede. @@@@
-@@@@ chonkies @@@@ A cute term for something chubby. @@@@
-@@@@ chraa @@@@ Not a recognized profanity in common languages. @@@@
-@@@@ ciospo @@@@ Italian slang, meaning "lump" or sometimes an "unattractive person." @@@@
-@@@@ cockfight @@@@ A common term for a sport involving roosters, where "cock" refers to the bird, not the penis. @@@@
+@@@@ caciocappella @@@@ Italian for a type of cheese. @@@@
+@@@@ camelo @@@@ Spanish/Portuguese for "camel". @@@@
+@@@@ cara de pau @@@@ Portuguese idiom meaning "shameless" or "brazen". Literally "face of wood". @@@@
+@@@@ cazzata @@@@ Italian slang for "bullshit" or "nonsense". @@@@
+@@@@ chiappa @@@@ Italian for "buttock" or "butt cheek". @@@@
+@@@@ chiasse @@@@ French slang for "shit" or "crap". @@@@
+@@@@ chinaswede @@@@ Appears to be a descriptive term for someone of Chinese and Swedish heritage. @@@@
+@@@@ chinaswedes @@@@ Appears to be a descriptive term for someone of Chinese and Swedish heritage. @@@@
+@@@@ chonkies @@@@ Slang term, often used endearingly, for something chubby or plump. @@@@
+@@@@ chraa @@@@ Origin unknown, does not appear to be a common profanity word. @@@@
+@@@@ ciospo @@@@ Italian slang for a clumsy, fat, or ugly person. @@@@
+@@@@ cockfight @@@@ Refers to a type of animal combat (rooster fighting). Not profanity. @@@@
 ```
 
 ---
@@ -119,6 +120,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -127,22 +129,15 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ cocky @@@@ Means arrogant or overconfident. It is generally considered a mild term and not extreme profanity, similar to 'doofus'. @@@@
-@@@@ corno @@@@ Italian/Spanish for 'cuckold', referring to a man whose wife is unfaithful. It is an insult but not typically considered extreme profanity. @@@@
-@@@@ couillon @@@@ French slang meaning 'idiot' or 'fool'. Similar in intensity to 'doofus'. @@@@
-@@@@ cox @@@@ A surname or can refer to a specific muscle. It is not profanity. @@@@
-@@@@ cracker @@@@ Can refer to a thin, crisp biscuit or a derogatory term for a white person. While offensive in the latter context, it is not typically considered extreme profanity like sexual obscenities. @@@@
-@@@@ cramouille @@@@ This word is not widely recognized as profanity in English or common European languages. @@@@
-@@@@ crap @@@@ Mild profanity meaning nonsense, garbage, or feces. It is not considered extreme profanity. @@@@
-@@@@ craphead @@@@ A mild insult referring to a foolish or annoying person. Not extreme profanity. @@@@
-@@@@ crapper @@@@ Slang term for a toilet. It is considered mild and not extreme profanity. @@@@
-@@@@ crotch @@@@ Refers to the area of the body between the legs. It is an anatomical term and not inherently profanity, though it can be used in vulgar contexts. @@@@
-@@@@ crotchy @@@@ Can mean irritable or bad-tempered, or sometimes refers to an unpleasant smell from the crotch area. It is not considered extreme profanity. @@@@
-@@@@ crows @@@@ Plural of 'crow', a type of bird. It is not profanity. @@@@
-@@@@ damm @@@@ A misspelling of 'damn', which is a mild exclamation of frustration or annoyance. Not extreme profanity. @@@@
-@@@@ dammit @@@@ A mild exclamation of frustration or annoyance, short for 'damn it'. Not extreme profanity. @@@@
-@@@@ damn @@@@ A mild exclamation of frustration or annoyance. Not extreme profanity. @@@@
-@@@@ demon @@@@ Refers to an evil spirit or devil. It is not profanity. @@@@
+@@@@ cocky @@@@ An adjective meaning arrogant or overconfident, not referring to genitalia or used as a strong slur. @@@@
+@@@@ corksucker @@@@ Can refer literally to someone who sucks on corks, or phonetically used to evade a vulgar term. When taken literally, it is not extreme. @@@@
+@@@@ cox @@@@ A common surname and also has non-vulgar meanings (e.g., relating to a coxswain or a type of apple). @@@@
+@@@@ crap @@@@ A milder term of profanity, often meaning nonsense or feces, not generally considered extreme. @@@@
+@@@@ craphead @@@@ A mild insult, similar to "idiot" or "doofus". @@@@
+@@@@ crapper @@@@ An informal term for a toilet, or a mild insult. @@@@
+@@@@ crows @@@@ A common type of bird, not considered profanity. @@@@
+@@@@ damn @@@@ A milder expletive, not generally considered extreme profanity compared to others on the list. @@@@
+@@@@ demon @@@@ Refers to an evil spirit, not typically classified as profanity or an extreme insult. @@@@
 ```
 
 ---
@@ -156,6 +151,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -164,12 +160,18 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ dolt @@@@ A stupid person. @@@@
+@@@@ dirsa @@@@ Not a widely recognized English profanity or a known common name used profanely. @@@@
+@@@@ dolt @@@@ A stupid person; a blockhead. @@@@
 @@@@ doodoo @@@@ A childish term for feces. @@@@
-@@@@ drol @@@@ Dutch/Flemish for funny, mischievous, or rascal. @@@@
+@@@@ drol @@@@ An archaic term for a jester, buffoon, or mischievous person. @@@@
+@@@@ dumbarrassed @@@@ A blend of 'dumb' and 'embarrassed', not inherently vulgar. @@@@
+@@@@ duperele @@@@ Not a widely recognized English profanity; may be a surname or foreign word. @@@@
 @@@@ dödel @@@@ German slang for idiot or fool. @@@@
-@@@@ farted @@@@ Past tense of to expel gas from the anus. @@@@
-@@@@ fartknocker @@@@ A silly, mild insult for a foolish person. @@@@
+@@@@ engerd @@@@ Not a recognized English profanity; an obscure or archaic word. @@@@
+@@@@ farted @@@@ To have emitted intestinal gas. @@@@
+@@@@ fartknocker @@@@ An unsophisticated term for a silly or annoying person. @@@@
+@@@@ feces @@@@ A clinical term for excrement. @@@@
+@@@@ feken @@@@ Not a widely recognized English profanity. @@@@
 ```
 
 ---
@@ -183,6 +185,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -191,14 +194,18 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ finger @@@@ A body part; not inherently profane. @@@@
-@@@@ floo @@@@ No clear or widely recognized extreme profane meaning. @@@@
-@@@@ flydye @@@@ No clear or widely recognized extreme profane meaning. @@@@
-@@@@ forfurzu @@@@ Esperanto for 'go fart'; 'fart' is generally considered mild, not extreme profanity. @@@@
-@@@@ forked @@@@ Refers to something divided or a utensil; no inherent extreme profane meaning. @@@@
-@@@@ forni @@@@ Italian for 'ovens'; can be a mild insult or related to 'fornicate,' which is not extreme profanity. @@@@
-@@@@ fourtwenty @@@@ A reference to cannabis culture; not a profanity word. @@@@
-@@@@ frigger @@@@ A mild British insult, generally considered less offensive than extreme profanity like 'fuck' or 'cunt'. @@@@
+@@@@ finger @@@@ A body part.
+@@@@ fingering @@@@ Can refer to touching or playing an instrument.
+@@@@ flamers @@@@ Can refer to someone who posts angry messages online.
+@@@@ flange @@@@ A mechanical part.
+@@@@ flittchen @@@@ German for 'hussy' or 'flirt'.
+@@@@ floo @@@@ No widely recognized extreme profanity meaning.
+@@@@ flydye @@@@ No widely recognized extreme profanity meaning.
+@@@@ focker @@@@ A proper name from a movie.
+@@@@ forfurzu @@@@ Esperanto for 'fart', a mild vulgarity.
+@@@@ forked @@@@ Means divided into two or more parts.
+@@@@ forni @@@@ Italian for 'ovens'.
+@@@@ fourtwenty @@@@ Refers to '420', associated with cannabis culture.
 ```
 
 ---
@@ -212,6 +219,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -220,20 +228,16 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ furzulo @@@@ Likely derived from German "Furz" (fart), a vulgar but generally not "really extreme" scatological term compared to words like "cunt" or "fuck". @@@@
-@@@@ geciket @@@@ A Turkish verb form meaning "to cause to be late". Not profanity. @@@@
-@@@@ gerber @@@@ A common surname and a German word for "tanner". Not profanity. @@@@
-@@@@ girlyboy @@@@ A mildly derogatory term, but not "really extreme" profanity. @@@@
-@@@@ go to hell @@@@ A common mild curse, not considered "really extreme" profanity. @@@@
-@@@@ goldone @@@@ No clear profane meaning; potentially a name or a non-profane foreign word. @@@@
-@@@@ gora @@@@ A Hindi/Urdu term for a white person. While it can be used disparagingly, the word itself is a descriptive term, not extreme profanity. @@@@
-@@@@ goras @@@@ Plural of "gora". @@@@
-@@@@ gotohell @@@@ A variant of "go to hell", a common mild curse. @@@@
-@@@@ goyim @@@@ A Hebrew/Yiddish term for non-Jews. While it can be used disparagingly, the word itself is a descriptive term, not extreme profanity. @@@@
-@@@@ grelho @@@@ A Portuguese word meaning "cricket" (the insect) or "grille". Not profanity. @@@@
-@@@@ greppeldel @@@@ No clear profane meaning; likely a non-profane word in a foreign language. @@@@
-@@@@ groe @@@@ No clear profane meaning; likely a misspelling or an unknown non-profane word. @@@@
-@@@@ gstring @@@@ A type of underwear. Not inherently vulgar or extreme profanity. @@@@
+@@@@ furzulo @@@@ "Furzulo" (Italian dialect) can refer to a f*rt or a person who f*rts often, or more generally, someone annoying or worthless. 'Fart' itself is generally considered mild profanity, not extreme.
+@@@@ geciket @@@@ "Geciket" (Turkish) means "got kicked" or "got fired." It is not a profanity.
+@@@@ gerber @@@@ "Gerber" is a common surname and brand name; it is not a profanity.
+@@@@ girlyboy @@@@ "Girlyboy" is a derogatory term for an effeminate male, an insult, but not typically considered extreme profanity.
+@@@@ goldone @@@@ "Goldone" is not widely recognized as a profanity in English and does not have an obvious vulgar meaning.
+@@@@ gora @@@@ "Gora" is a Hindi/Urdu term for a white person, which can be used neutrally or derogatorily, but is not inherently a profanity.
+@@@@ goras @@@@ "Goras" is the plural of "Gora," a Hindi/Urdu term for a white person, which can be used neutrally or derogatorily, but is not inherently a profanity.
+@@@@ gowl @@@@ "Gowl" is Irish slang for a stupid, foolish, or unpleasant person, an insult, but not typically considered extreme profanity.
+@@@@ goyim @@@@ "Goyim" is a Hebrew term for non-Jews; it is not inherently a profanity, though it can be used in a derogatory context.
+@@@@ groe @@@@ "Groe" is not widely recognized as a profanity in English and does not have an obvious vulgar meaning.
 ```
 
 ---
@@ -247,6 +251,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -255,40 +260,42 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ harem @@@@ A group of women associated with one man. Not a profanity. @@@@
-@@@@ harry palms @@@@ A name or descriptive term. Not profanity. @@@@
-@@@@ hatullinen @@@@ Finnish for "a spoonful" or "a ladleful." Not profanity. @@@@
-@@@@ hell @@@@ Often considered mild profanity or an intensifier, not "really extreme" profanity. @@@@
-@@@@ hells @@@@ Plural of 'hell', often considered mild profanity or an intensifier, not "really extreme" profanity. @@@@
-@@@@ heroin @@@@ A drug name. Not a profanity. @@@@
-@@@@ herpy @@@@ Slang for herpes. A medical term, not profanity. @@@@
-@@@@ hevonperse @@@@ Finnish for "horse's ass." An insult, stronger than "doofus" but not as vulgar as anatomical terms like "cunt." @@@@
-@@@@ hoempert @@@@ Unrecognized word, not a known profanity. @@@@
-@@@@ homey @@@@ A term of endearment for a friend. Not profanity. @@@@
-@@@@ honkers @@@@ Slang for breasts. While vulgar, it's often considered less extreme or more playful than "cunt" or "penis." @@@@
-@@@@ hope you die @@@@ A phrase expressing a wish or threat, not a profanity word itself. @@@@
-@@@@ hufter @@@@ Dutch for "scoundrel" or "jerk." An insult, similar to "doofus." @@@@
-@@@@ hård @@@@ Swedish for "hard." Not inherently profanity. @@@@
-@@@@ ike @@@@ Can be a name. Not inherently profanity without context. @@@@
-@@@@ ikes @@@@ Plural of 'ike'. Not inherently profanity without context. @@@@
-@@@@ inferno @@@@ Refers to a large fire or hell. Not profanity. @@@@
-@@@@ ingoio @@@@ Italian for "I swallow." A verb, not inherently profanity. @@@@
-@@@@ insest @@@@ Misspelling of "incest." A term describing a taboo act, not a swear word. @@@@
-@@@@ jajko @@@@ Polish for "egg." Not profanity. @@@@
-@@@@ jebus @@@@ A historical name for Jerusalem. Not profanity. @@@@
-@@@@ jerked @@@@ Past tense of 'to jerk.' Not inherently profanity. @@@@
-@@@@ jiggers @@@@ An ambiguous term, not inherently profanity unless contextually used as a specific slur. @@@@
-@@@@ jim crow @@@@ Refers to historical segregation laws. Not a profanity word itself. @@@@
-@@@@ jimfish @@@@ Not a recognized profanity. @@@@
-@@@@ jugg @@@@ Can refer to a container. Less explicit than "jugs" (slang for breasts). @@@@
-@@@@ jätkä @@@@ Finnish for "guy" or "bloke." Not profanity. @@@@
-@@@@ kacsuĉulo @@@@ Esperanto for "duckling." Not profanity. @@@@
-@@@@ kaminey @@@@ Not a recognized profanity. @@@@
-@@@@ kanen @@@@ Not a recognized profanity. @@@@
-@@@@ kapullo @@@@ Not a recognized profanity. @@@@
-@@@@ kimme @@@@ German for "notch" or "sight." Not profanity. @@@@
-@@@@ kinkster @@@@ A person with kinky sexual interests. Not a vulgar profanity word itself. @@@@
-@@@@ klojo @@@@ Dutch for "idiot" or "moron." An insult, similar to "doofus." @@@@
+@@@@ harem @@@@ A group of women associated with one man. Not profanity. @@@@
+@@@@ hatullinen @@@@ Finnish, meaning "hateful" or "disgruntled". Not profanity. @@@@
+@@@@ hell @@@@ A common, mild expletive. @@@@
+@@@@ hells @@@@ Plural/variant of "hell", a common, mild expletive. @@@@
+@@@@ heroin @@@@ A drug. Not profanity. @@@@
+@@@@ hevonperse @@@@ Finnish, meaning "horse's behind". A mild insult. @@@@
+@@@@ hoempert @@@@ Dutch/Flemish, meaning "lout" or "clumsy person". A mild insult. @@@@
+@@@@ homey @@@@ Slang for a friend. Not profanity. @@@@
+@@@@ hope you die @@@@ A phrase expressing a wish of harm, but not a profanity word itself. @@@@
+@@@@ horseshit @@@@ A common, moderate expletive. @@@@
+@@@@ hufter @@@@ Dutch, meaning "lout" or "scoundrel". A mild insult. @@@@
+@@@@ hård @@@@ Swedish, meaning "hard". Not profanity in isolation. @@@@
+@@@@ ike @@@@ A common name. Not profanity. @@@@
+@@@@ ikes @@@@ Plural of "Ike". Not profanity. @@@@
+@@@@ inferno @@@@ A large fire or hell. Not profanity. @@@@
+@@@@ j*ckass @@@@ Censored version of "jackass". A mild insult. @@@@
+@@@@ jackarse @@@@ Variant of "jackass". A mild insult. @@@@
+@@@@ jajko @@@@ Polish, meaning "egg". Not profanity. @@@@
+@@@@ jebus @@@@ A mild exclamation, variant of "Jesus". @@@@
+@@@@ jerkass @@@@ A mild insult. @@@@
+@@@@ jim crow @@@@ A historical system of racial segregation. Not a profanity word itself. @@@@
+@@@@ jimfish @@@@ An unclear term, not commonly recognized as profanity. @@@@
+@@@@ jätkä @@@@ Finnish, meaning "guy", "lad", or "jerk". A mild insult. @@@@
+@@@@ kackbratze @@@@ German, meaning "poop-brat". A mild insult. @@@@
+@@@@ kacsuĉulo @@@@ Esperanto, meaning "duckling". Not profanity. @@@@
+@@@@ kaminey @@@@ Hindi, meaning "rascal" or "scoundrel". A mild insult. @@@@
+@@@@ kananpaska @@@@ Finnish, meaning "chicken poop". A mild insult. @@@@
+@@@@ kanen @@@@ A surname. Not profanity. @@@@
+@@@@ kapullo @@@@ An unclear term, not commonly recognized as profanity. @@@@
+@@@@ kimme @@@@ German, meaning "notch" or "sight". Not profanity. @@@@
+@@@@ kinkster @@@@ Someone with unusual sexual preferences. Not extreme profanity. @@@@
+@@@@ kiss ass @@@@ A mild insult or description of behavior. @@@@
+@@@@ kiss my ass @@@@ A mild-to-moderate vulgar phrase. @@@@
+@@@@ klanswomen @@@@ Female members of the Ku Klux Klan. Not a profanity word itself. @@@@
+@@@@ klerebeer @@@@ Dutch, meaning "crap bear". A mild, informal insult. @@@@
+@@@@ klojo @@@@ Dutch/Flemish, meaning "idiot" or "jerk". A mild insult. @@@@
 ```
 
 ---
@@ -302,6 +309,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -310,36 +318,16 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ knockers @@@@ Slang for breasts. While vulgar, it is not considered extreme profanity.
-@@@@ knor @@@@ Not a profanity word. It can mean "grunt" in Dutch.
-@@@@ krap @@@@ Dutch for "crap" or "garbage." It is a mild profanity.
-@@@@ krappy @@@@ A variation of "crappy," which is a mild profanity.
-@@@@ krentekakker @@@@ A Dutch idiom for a miser, literally "currant shitter." It contains vulgarity but is not used as extreme profanity.
-@@@@ kumbullbe @@@@ Not a known profanity word.
-@@@@ kusaista @@@@ Finnish for "to piss" or "to urinate." This is a mild profanity.
-@@@@ kushi @@@@ Not a profanity word. It can refer to a type of cannabis or a Japanese name.
-@@@@ kushis @@@@ Not a profanity word. Plural of kushi.
-@@@@ kusi @@@@ Finnish for "pee" or "urine." This is a mild vulgar term, not extreme profanity.
-@@@@ kwif @@@@ Likely a misspelling of "queef," which refers to vaginal flatulence. It is vulgar but not typically considered extreme profanity.
-@@@@ kötthuvud @@@@ Swedish for "meathead." It is an insult but not extreme profanity.
-@@@@ köttnacke @@@@ Swedish, a rare insult similar to "meathead." Not extreme profanity.
-@@@@ ladyboy @@@@ A term for transgender women. While it can be offensive if used in a derogatory or sexualized context, it is not a profanity word itself.
-@@@@ ladyboys @@@@ Plural of ladyboy.
-@@@@ ladyboyz @@@@ Plural of ladyboy.
-@@@@ lardass @@@@ An insult for an overweight person. It is vulgar but not extreme profanity.
-@@@@ licking @@@@ A verb meaning to pass the tongue over. It is not inherently profane without a specific, vulgar context.
-@@@@ lipshits @@@@ This is a known surname, similar to Lipshitz. According to your rule (Willy/Anita are fine), names are not profanity.
-@@@@ lipshitz @@@@ A known surname. According to your rule (Willy/Anita are fine), names are not profanity.
-@@@@ lodu @@@@ Polish for "of ice." Not a profanity word.
-@@@@ loffare @@@@ Swedish for "vagrant" or "tramp." Not a profanity word.
-@@@@ loin @@@@ A part of the body, often used metaphorically for sexual parts. It is not a profanity word itself.
-@@@@ loins @@@@ Plural of loin.
-@@@@ loose woman @@@@ A descriptive phrase for a woman considered promiscuous. It is a social judgment, not a profanity word.
-@@@@ lort @@@@ Danish/Norwegian/Swedish for "dirt" or "filth." It can be used as a mild profanity similar to "crap."
-@@@@ maal @@@@ Not a profanity word. It can mean "goal" in several languages.
-@@@@ macizorra @@@@ Spanish for an aggressive, masculine-acting woman. It is an insult but not extreme profanity.
-@@@@ martillo @@@@ Spanish for "hammer." Not a profanity word.
-@@@@ maumau @@@@ Refers to a historical movement. Not a profanity word.
+@@@@ krap @@@@ English for "crap", meaning feces or nonsense, considered mild profanity. @@@@
+@@@@ krappy @@@@ English for "crappy", meaning of poor quality, considered mild profanity. @@@@
+@@@@ krentekakker @@@@ Dutch for a stingy person; a mild insult. @@@@
+@@@@ kusaista @@@@ Finnish for "to piss" or "to pee", which is considered mild profanity. @@@@
+@@@@ kusi @@@@ Finnish for "urine" or "pee", which is considered mild profanity. @@@@
+@@@@ kötthuvud @@@@ Swedish for "meathead", a mild insult for a stupid person. @@@@
+@@@@ köttnacke @@@@ Swedish for "meat neck", a mild insult for a stupid person. @@@@
+@@@@ loffare @@@@ Swedish for "tramp" or "hobo"; an insult but not vulgar. @@@@
+@@@@ loose woman @@@@ A derogatory phrase for a promiscuous woman, not a single vulgar or extreme profanity word. @@@@
+@@@@ lort @@@@ Danish/Norwegian for "dirt" or "filth", often used as a mild expletive like "crap". @@@@
 ```
 
 ---
@@ -353,6 +341,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -361,39 +350,25 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ me cago en la leche @@@@ Spanish for "I shit in the milk". A common, mild exclamation of frustration, similar to "damn it". @@@@
-@@@@ me cago en la leche merengada @@@@ Spanish for "I shit in the meringue milk". A mild exclamation of frustration. @@@@
-@@@@ me cago en la mar @@@@ Spanish for "I shit in the sea". A mild exclamation of frustration. @@@@
-@@@@ me cago en todo @@@@ Spanish for "I shit on everything". A mild exclamation of frustration, similar to "damn it all". @@@@
-@@@@ merd @@@@ French for "shit". Often used as a mild exclamation, similar to "crap" or "darn". @@@@
-@@@@ merda @@@@ Italian/Portuguese/Spanish for "shit". Often used as a mild exclamation, similar to "crap" or "darn". @@@@
-@@@@ merde @@@@ French for "shit". Often used as a mild exclamation, similar to "crap" or "darn". @@@@
-@@@@ merdeuse @@@@ French, literally "shitty", but often used for a bratty or annoying girl. Not extreme profanity. @@@@
-@@@@ merdeux @@@@ French, literally "shitty", but often used for a bratty or annoying boy. Not extreme profanity. @@@@
-@@@@ merdoso @@@@ Spanish/Portuguese, "shitty" or "covered in shit". Used to describe something as bad or crappy, not extreme profanity. @@@@
-@@@@ mickeyfinn @@@@ Refers to a drink laced with a drug to incapacitate someone. Not profanity. @@@@
-@@@@ molest @@@@ To harass or assault (especially sexually). Describes an act, not a vulgar or profane word itself. @@@@
-@@@@ molo @@@@ Not recognized as profanity. @@@@
-@@@@ monta @@@@ Spanish for "mount" (e.g., to ride). Not profanity. @@@@
-@@@@ moona @@@@ Not recognized as profanity. @@@@
-@@@@ moonade @@@@ Not recognized as profanity. @@@@
-@@@@ moron @@@@ A foolish or stupid person. An insult, but not considered extreme profanity. @@@@
-@@@@ motherlovebone @@@@ Name of a band. Not profanity. @@@@
-@@@@ mrhands @@@@ Refers to a specific individual/pornographic film. Not a profane word itself. @@@@
-@@@@ muna @@@@ Not recognized as profanity. @@@@
-@@@@ munt @@@@ British slang for vomit. Not extreme profanity. @@@@
-@@@@ munter @@@@ British/Australian slang for an unattractive person. An insult, but not extreme profanity. @@@@
-@@@@ mutta @@@@ Finnish for "but" or "however". Not profanity. @@@@
-@@@@ naked @@@@ Without clothes. Not profanity. @@@@
-@@@@ nastt @@@@ Not a recognized word or profanity. @@@@
-@@@@ nasty @@@@ Unpleasant or disgusting. Not extreme profanity. @@@@
-@@@@ necked @@@@ To kiss passionately, or to kill. Not profanity. @@@@
+@@@@ mickeyfinn @@@@ Refers to a spiked drink, not profanity. @@@@
+@@@@ molo @@@@ Not a recognized profanity. @@@@
+@@@@ monta @@@@ Spanish for "mount," not profanity. @@@@
+@@@@ moona @@@@ Not a recognized profanity. @@@@
+@@@@ moonade @@@@ Not a recognized profanity. @@@@
+@@@@ moron @@@@ Term for a stupid person, an insult but not extreme profanity like "cunt." @@@@
+@@@@ motherlovebone @@@@ Name of a band, not profanity. @@@@
+@@@@ muna @@@@ Not a recognized profanity. @@@@
+@@@@ munter @@@@ Slang for an unattractive person, an insult but not extreme profanity. @@@@
+@@@@ mutta @@@@ Finnish for "mud," not profanity. @@@@
+@@@@ naked @@@@ Describes a state of undress, not profanity. @@@@
+@@@@ nastt @@@@ Likely a misspelling of "nasty," which is not extreme profanity. @@@@
+@@@@ nasty @@@@ Describes something unpleasant, not extreme profanity. @@@@
+@@@@ necked @@@@ Refers to passionate kissing or drinking quickly, not profanity. @@@@
 @@@@ nicka @@@@ Not a recognized profanity. @@@@
 @@@@ nickas @@@@ Not a recognized profanity. @@@@
-@@@@ nicker @@@@ British slang for a pound, or a horse's neigh. Not profanity. @@@@
-@@@@ niggarded @@@@ Past tense of niggard, meaning stingy. Not profanity and unrelated to racial slurs. @@@@
-@@@@ niggle @@@@ A slight annoyance or worry. Not profanity. @@@@
-@@@@ niggles @@@@ Plural of niggle. Not profanity. @@@@
+@@@@ nicker @@@@ British slang for "laugh" or "pound sterling," not profanity. @@@@
+@@@@ niggle @@@@ To cause slight annoyance, not profanity. @@@@
+@@@@ niggles @@@@ Plural of "niggle," not profanity. @@@@
 ```
 
 ---
@@ -407,6 +382,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -415,24 +391,27 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ ninny @@@@ A foolish or silly person. @@@@
-@@@@ nipple @@@@ A part of the breast. @@@@
-@@@@ olla @@@@ Spanish for 'pot' or 'cooking pot'. @@@@
-@@@@ orina @@@@ Spanish for 'urine'. @@@@
-@@@@ osama @@@@ A male given name. @@@@
-@@@@ ovum @@@@ A scientific term for an egg cell. @@@@
-@@@@ ovums @@@@ Plural of ovum, a scientific term for an egg cell. @@@@
-@@@@ panti @@@@ Indonesian slang for 'panties' (underwear). @@@@
-@@@@ pastie @@@@ A small pastry or a nipple cover. @@@@
-@@@@ patacca @@@@ Italian slang for 'fake' or 'trivial thing'. @@@@
-@@@@ peepee @@@@ A childish term for urination or penis. @@@@
-@@@@ pehko @@@@ Finnish for 'bun' or 'roll'. @@@@
-@@@@ pele @@@@ A common proper name, or Portuguese for 'skin'. @@@@
-@@@@ peludo @@@@ Spanish for 'hairy'. @@@@
-@@@@ penas @@@@ Spanish for 'pains' or 'feathers'. @@@@
-@@@@ penoze @@@@ Dutch slang for 'underworld' or 'organized crime'. @@@@
-@@@@ pesce @@@@ Italian for 'fish'. @@@@
-@@@@ pezón @@@@ Spanish for 'nipple'. @@@@
+@@@@ ninny @@@@ English: a foolish or silly person; mild insult.
+@@@@ olla @@@@ Spanish: pot or stew; common word, not profanity.
+@@@@ osama @@@@ A name; not profanity.
+@@@@ ovum @@@@ English: a female reproductive cell; biological term, not profanity.
+@@@@ ovums @@@@ English: plural of ovum; biological term, not profanity.
+@@@@ paddy @@@@ English: a colloquial or mildly derogatory term for an Irish person.
+@@@@ palen @@@@ Dutch: pale; English: poles/stakes; not profanity.
+@@@@ palle @@@@ Danish: pallet, ball; also a name; not profanity.
+@@@@ panna @@@@ Swedish: forehead; not profanity.
+@@@@ pano @@@@ Spanish: cloth, fabric; common prefix; not profanity.
+@@@@ panti @@@@ English: misspelling of 'panty' (underwear); not profanity.
+@@@@ pastie @@@@ English: a type of pastry; also a covering for nipples; not inherently extreme profanity.
+@@@@ pau @@@@ Portuguese: wood; also a name; not profanity.
+@@@@ pehko @@@@ No clear meaning as profanity; likely not a profanity word.
+@@@@ pele @@@@ A name; not profanity.
+@@@@ peludo @@@@ Spanish: hairy; not profanity.
+@@@@ pelék @@@@ No clear meaning as profanity; likely not a profanity word.
+@@@@ penas @@@@ Spanish: pains, feathers; not profanity.
+@@@@ penoze @@@@ Dutch: slang for organized crime/underworld; not profanity.
+@@@@ pesce @@@@ Italian: fish; not profanity.
+@@@@ pikk @@@@ Estonian: small; not profanity.
 ```
 
 ---
@@ -446,6 +425,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -454,34 +434,30 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ pinko @@@@ Derogatory term for a left-wing person. @@@@
-@@@@ pipi @@@@ Childish term for "pee" or "urination." @@@@
-@@@@ pippa @@@@ A common given name. @@@@
-@@@@ pipì @@@@ Childish term for "pee" or "urination." @@@@
-@@@@ pises @@@@ French for "urines" or "pees." @@@@
-@@@@ pistää @@@@ Finnish verb meaning "to sting" or "to poke." @@@@
-@@@@ poep @@@@ Dutch for "poop" or "feces." @@@@
-@@@@ poepen @@@@ Dutch for "to poop" or "to defecate." @@@@
-@@@@ pommy @@@@ Derogatory slang term for an English person. @@@@
-@@@@ poo @@@@ Childish term for "feces" or "to defecate." @@@@
-@@@@ popel @@@@ German slang for "booger" or "snot." @@@@
-@@@@ potta @@@@ Finnish for "potty" or "toilet." @@@@
-@@@@ prutt @@@@ Swedish/Norwegian for "fart." @@@@
-@@@@ pube @@@@ Short for "pubic hair." @@@@
-@@@@ pubes @@@@ Short for "pubic hairs." @@@@
-@@@@ pubiclice @@@@ Misspelling of "pubic lice," a type of parasite. @@@@
-@@@@ puuke @@@@ Finnish for "booger" or "nose mucus." @@@@
-@@@@ péter @@@@ French for "to fart." @@@@
-@@@@ reet @@@@ Slang term meaning "alright" or "good." @@@@
-@@@@ rere @@@@ Can refer to the "rear" or back part, not inherently profane. @@@@
-@@@@ reva @@@@ Romanian slang for "ass" or "buttocks." @@@@
-@@@@ rompipalle @@@@ Italian slang for an annoying person or a "ball-breaker." @@@@
-@@@@ rosette @@@@ Refers to a rose-shaped ornament or a type of flower. @@@@
-@@@@ rothoer @@@@ German term, can refer to a red-light district. @@@@
-@@@@ rotzak @@@@ Dutch slang for "snot rag" or "scumbag." @@@@
-@@@@ ræva @@@@ Norwegian for "ass" or "buttocks." @@@@
-@@@@ ræven @@@@ Norwegian for "the ass" or "the buttocks." @@@@
-@@@@ röv @@@@ Swedish for "ass" or "buttocks." @@@@
+@@@@ pinko @@@@ English: Derogatory term for a person with left-wing political views. @@@@
+@@@@ pipi @@@@ Childish term for urine or genitals. @@@@
+@@@@ pipì @@@@ Italian: Childish term for urine or genitals. @@@@
+@@@@ pirla @@@@ Italian: Idiot or fool. @@@@
+@@@@ piss off @@@@ Impolite way to tell someone to leave. @@@@
+@@@@ pistää @@@@ Finnish: To stab or prick. @@@@
+@@@@ poep @@@@ Dutch: Poop or shit (mild). @@@@
+@@@@ poepen @@@@ Dutch: To poop or to shit (mild). @@@@
+@@@@ pommy @@@@ Derogatory British term for an Australian. @@@@
+@@@@ poo @@@@ Childish term for feces. @@@@
+@@@@ popel @@@@ German: Booger or snot. @@@@
+@@@@ potta @@@@ Finnish: Potty. @@@@
+@@@@ prutt @@@@ Dutch/Swedish: Fart. @@@@
+@@@@ pube @@@@ Short for pubic hair. @@@@
+@@@@ pubes @@@@ Plural of pube. @@@@
+@@@@ pubiclice @@@@ Refers to pubic lice. @@@@
+@@@@ pussywhipped @@@@ Derogatory term for a man controlled by a woman. @@@@
+@@@@ puuke @@@@ Finnish: Crusty snot or booger. @@@@
+@@@@ péter @@@@ French: To fart. @@@@
+@@@@ reet @@@@ British slang: Good or excellent. @@@@
+@@@@ rere @@@@ Japanese/French: Rear or back. @@@@
+@@@@ rompipalle @@@@ Italian: Ball-breaker, annoying person. @@@@
+@@@@ rosette @@@@ A decorative object or flower. @@@@
+@@@@ rotzak @@@@ Dutch: Rotten bag, a rascal or jerk. @@@@
 ```
 
 ---
@@ -495,6 +471,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -503,28 +480,22 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ saco @@@@ Spanish/Portuguese for "bag" or "sack"; not inherently profane. @@@@
-@@@@ sadis @@@@ Root of "sadism"; describes a psychological trait, not profanity. @@@@
-@@@@ sadom @@@@ Root of "sadomasochism"; describes a practice, not profanity. @@@@
-@@@@ sbrodolata @@@@ Italian for "splashed" or "messy"; not profanity. @@@@
-@@@@ scallywag @@@@ A mischievous or disreputable person; not extreme profanity. @@@@
-@@@@ schatje @@@@ Dutch for "sweetheart" or "darling"; a term of endearment. @@@@
-@@@@ schnackeln @@@@ German slang for "to have sex" or "hook up"; vulgar but not extreme profanity like "fuck". @@@@
-@@@@ schoft @@@@ Dutch for "scoundrel" or "rascal"; not extreme profanity. @@@@
-@@@@ screwed @@@@ Can mean "in trouble" or "had sex with"; not extreme profanity on its own. @@@@
-@@@@ scrud @@@@ Not a common English profanity. @@@@
-@@@@ sega @@@@ Italian for "masturbation" or "saw"; while related to sex, the word itself is not extreme profanity. @@@@
-@@@@ seggek @@@@ Not a recognized profanity in English. @@@@
-@@@@ seggeket @@@@ Not a recognized profanity in English. @@@@
-@@@@ semen @@@@ Biological term for seminal fluid; not profanity. @@@@
-@@@@ sexkitten @@@@ A playful, sexually attractive woman; not profanity. @@@@
-@@@@ shamedame @@@@ Not a recognized profanity. @@@@
-@@@@ shav @@@@ Not a recognized profanity. @@@@
-@@@@ shibary @@@@ Misspelling of "Shibari," a Japanese art of rope bondage; not profanity. @@@@
-@@@@ shrimping @@@@ Can refer to catching shrimp or a specific sexual act; not extreme profanity. @@@@
-@@@@ sike @@@@ Slang for "just kidding" or "fooled you"; not profanity. @@@@
-@@@@ sissy @@@@ An insult implying weakness or effeminacy; not extreme profanity. @@@@
-@@@@ sixtynine @@@@ Refers to a sexual position; not profanity. @@@@
+@@@@ saco @@@@ Spanish for 'bag', not inherently vulgar. @@@@
+@@@@ sadis @@@@ Short for 'sadist', describes a person, not extreme profanity. @@@@
+@@@@ sadom @@@@ Short for 'sadomasochism', describes a practice, not extreme profanity. @@@@
+@@@@ sbrodolata @@@@ Italian for 'sloppy' or 'messy', not profanity. @@@@
+@@@@ scallywag @@@@ A mischievous person or rogue, not profanity. @@@@
+@@@@ schatje @@@@ Dutch for 'sweetheart' or 'treasure', an affectionate term. @@@@
+@@@@ schoft @@@@ German for 'scoundrel', a mild insult, not extreme profanity. @@@@
+@@@@ scut @@@@ A contemptible person, a mild insult, similar to 'doofus'. @@@@
+@@@@ seggek @@@@ Hungarian for 'idiot' or 'moron', a mild insult, similar to 'doofus'. @@@@
+@@@@ seggeket @@@@ Plural of 'seggek' (idiots/morons), a mild insult. @@@@
+@@@@ sexkitten @@@@ A sexually attractive woman, a descriptive term, not profanity. @@@@
+@@@@ shamedame @@@@ 'Shame' and 'dame', not profanity. @@@@
+@@@@ shav @@@@ Likely short for 'shave', not profanity. @@@@
+@@@@ shibary @@@@ Japanese term for a type of rope bondage, a descriptive term, not vulgar profanity. @@@@
+@@@@ sike @@@@ Used to indicate a joke or trick, not profanity. @@@@
+@@@@ sissy @@@@ An effeminate or weak person, a mild insult, similar to 'doofus'. @@@@
 ```
 
 ---
@@ -538,6 +509,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -546,31 +518,42 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ skrib @@@@ A non-offensive word, possibly a name or short for "scribe." @@@@
-@@@@ skribz @@@@ A non-offensive word, a variant of "skrib." @@@@
-@@@@ sniggered @@@@ To laugh in a disrespectful or snickering way. Not a profanity. @@@@
-@@@@ sniggering @@@@ The act of laughing in a disrespectful or snickering way. Not a profanity. @@@@
-@@@@ snol @@@@ Can refer to snot or be a name/surname. Not inherently profane. @@@@
-@@@@ socksucker @@@@ A mild, somewhat childish insult, similar to "doofus." @@@@
-@@@@ sod off @@@@ British slang for "go away." Not considered extreme profanity. @@@@
-@@@@ souse @@@@ To drench or an alcoholic. Not inherently profane. @@@@
-@@@@ soused @@@@ Drunk or drenched. Not an extreme profanity. @@@@
-@@@@ spank @@@@ To hit on the buttocks, often playfully or as punishment. Not an extreme profanity. @@@@
-@@@@ standje @@@@ Dutch for "position" or "situation." While it can also refer to an erection, the word itself is not extreme profanity. @@@@
-@@@@ steamy @@@@ Producing steam or full of sexual passion. Not a profanity. @@@@
-@@@@ stoned @@@@ Under the influence of drugs. Not a profanity. @@@@
-@@@@ strappado @@@@ A form of torture. Not a profanity. @@@@
-@@@@ stuinties @@@@ No common extreme profanity meaning. @@@@
-@@@@ suar @@@@ Malay for "voice" or "sound." Not profane. @@@@
-@@@@ suckass @@@@ A mild insult for someone obsequious or sycophantic, similar to "doofus." @@@@
-@@@@ sucked @@@@ Past tense of suck. Not inherently profane without context. @@@@
-@@@@ suckme @@@@ While suggestive, it is not an explicit or extreme profanity. @@@@
-@@@@ sufferd @@@@ A misspelling of "suffered." Not profane. @@@@
-@@@@ suicidegirls @@@@ The name of a website/community. Not profane. @@@@
-@@@@ sultrywoman @@@@ A descriptive term for a woman. Not profane. @@@@
-@@@@ sultrywomen @@@@ A descriptive term for women. Not profane. @@@@
-@@@@ svartheiteste @@@@ Norwegian for "blackest." Not inherently profane or a slur without specific context. @@@@
-@@@@ sveltina @@@@ Likely a name or diminutive. Not profane. @@@@
+@@@@ skrib @@@@ Not a recognized profanity. @@@@
+@@@@ skribz @@@@ Not a recognized profanity. @@@@
+@@@@ slopies @@@@ Not profanity. @@@@
+@@@@ slopy @@@@ Not profanity. @@@@
+@@@@ sniggered @@@@ To laugh in a disrespectful way. Not profanity. @@@@
+@@@@ sniggering @@@@ To laugh in a disrespectful way. Not profanity. @@@@
+@@@@ snol @@@@ No common profane meaning. @@@@
+@@@@ snuff @@@@ Refers to a form of tobacco or violent film genre. Not profanity. @@@@
+@@@@ soccia @@@@ Italian slang, not extreme profanity. @@@@
+@@@@ socksucker @@@@ Mild insult. @@@@
+@@@@ sod off @@@@ British informal term meaning 'go away'. Not extreme profanity. @@@@
+@@@@ sooty @@@@ Refers to being covered in soot. Not profanity. @@@@
+@@@@ soppy bollucks @@@@ "Bollocks" can mean nonsense in British English. Not extreme profanity. @@@@
+@@@@ souse @@@@ To drench or a drunkard. Not profanity. @@@@
+@@@@ soused @@@@ Drunk. Not profanity. @@@@
+@@@@ spank @@@@ To hit someone on the buttocks. Not profanity. @@@@
+@@@@ spreadeagle @@@@ To stretch out limbs. Not profanity. @@@@
+@@@@ spuiten @@@@ Dutch for 'to squirt' or 'to inject'. Not inherently profane. @@@@
+@@@@ spunk @@@@ Can refer to courage. Not profanity in this context. @@@@
+@@@@ squinty @@@@ Refers to eyes. Not profanity. @@@@
+@@@@ standje @@@@ Dutch for 'position' or 'situation'. Not profanity. @@@@
+@@@@ steamy @@@@ Refers to vapor or a romantic atmosphere. Not profanity. @@@@
+@@@@ stoned @@@@ Under the influence of drugs. Not profanity. @@@@
+@@@@ strappado @@@@ A form of torture. Not profanity. @@@@
+@@@@ stronzata @@@@ Italian for 'bullshit' or 'nonsense'. Mild profanity. @@@@
+@@@@ stuinties @@@@ Not a recognized profanity. @@@@
+@@@@ styervo @@@@ Not a recognized profanity. @@@@
+@@@@ suar @@@@ Malaysian/Indonesian for 'voice' or 'sound'. Not profanity. @@@@
+@@@@ suce @@@@ French for 'suck'. Not inherently profane by itself. @@@@
+@@@@ sucked @@@@ Past tense of suck. Not profanity. @@@@
+@@@@ sufferd @@@@ Past tense of suffer. Not profanity. @@@@
+@@@@ suicidegirls @@@@ A website/brand name. Not profanity. @@@@
+@@@@ sultrywoman @@@@ Not profanity. @@@@
+@@@@ sultrywomen @@@@ Not profanity. @@@@
+@@@@ svartheiteste @@@@ Norwegian/Swedish, meaning 'blackest/hottest'. Not profanity. @@@@
+@@@@ sveltina @@@@ Not profanity. @@@@
 ```
 
 ---
@@ -584,6 +567,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -592,44 +576,29 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ sås @@@@ Swedish for "sauce". Not profanity. @@@@
-@@@@ tatte @@@@ German for "paw" or "touch". Not profanity. @@@@
-@@@@ taking the piss @@@@ British slang for mocking or making fun. Not extreme profanity. @@@@
-@@@@ tarado @@@@ Spanish/Portuguese for "retarded" or "moron". An insult, not extreme profanity. @@@@
-@@@@ tard asses @@@@ Offensive slang for foolish people. An insult, not extreme profanity. @@@@
-@@@@ tart @@@@ British slang for a promiscuous woman, or a type of pastry. A derogatory term, but not extreme profanity. @@@@
-@@@@ terrone @@@@ Italian derogatory term for someone from Southern Italy. A regional slur, not extreme profanity. @@@@
-@@@@ testee @@@@ A person being tested. Not profanity. @@@@
-@@@@ teuch @@@@ Scottish slang for "tough" or "smelly". Not profanity. @@@@
-@@@@ thicklip @@@@ Derogatory term, often racist. A slur, not extreme profanity. @@@@
-@@@@ thicklips @@@@ Plural of "thicklip". A slur, not extreme profanity. @@@@
-@@@@ thirdeye @@@@ Anatomical or spiritual term. Not profanity. @@@@
-@@@@ tinkle @@@@ Slang for urinate, or a light ringing sound. Not extreme profanity. @@@@
-@@@@ tirare @@@@ Italian verb "to pull" or "to shoot". Not profanity. @@@@
-@@@@ titi @@@@ Spanish for "boob" (often diminutive) or a common name/nickname. A mild vulgarity for breast, not extreme profanity. @@@@
-@@@@ tittchen @@@@ German diminutive for "tits" (small breasts). A mild vulgarity, not extreme profanity. @@@@
-@@@@ toke @@@@ Inhaling smoke (e.g., from cannabis). Not profanity. @@@@
-@@@@ tonto @@@@ Spanish for "stupid" or "fool". An insult, not extreme profanity. @@@@
-@@@@ tonto del culo @@@@ Spanish for "asshole idiot" or "ass-stupid". An insult, not extreme profanity. @@@@
-@@@@ topless @@@@ Not wearing a top. Not profanity. @@@@
-@@@@ tortur @@@@ Misspelling of torture, or verb form. Not profanity. @@@@
-@@@@ tosser @@@@ British slang for a wanker/masturbator/idiot. An insult, not extreme profanity. @@@@
-@@@@ towelhead @@@@ Derogatory slur for people wearing turbans or headscarves. A slur, not extreme profanity. @@@@
-@@@@ towelheads @@@@ Plural of "towelhead". A slur, not extreme profanity. @@@@
-@@@@ towelshithead @@@@ Derogatory slur combined with an insult ("shithead"). Not extreme profanity. @@@@
-@@@@ trannie @@@@ Derogatory slur for a transgender person. A slur, not extreme profanity. @@@@
-@@@@ trots @@@@ Dutch for "proud". Not profanity. @@@@
-@@@@ tuckahoe @@@@ Historical derogatory term for a poor white person. A slur, not extreme profanity. @@@@
-@@@@ tuhkaluukku @@@@ Finnish for "ash hatch" or "ash bin". Not profanity. @@@@
-@@@@ tusan @@@@ Swedish exclamation, milder form of "damn it". Not extreme profanity. @@@@
-@@@@ ublyudok @@@@ Russian for "bastard" or "scum". An insult, not extreme profanity. @@@@
-@@@@ undressing @@@@ Removing clothes. Not profanity. @@@@
-@@@@ upskirts @@@@ Photos taken up a skirt. Describes an action, not profanity. @@@@
-@@@@ uzi @@@@ Type of submachine gun. Not profanity. @@@@
-@@@@ verdammter @@@@ German for "damned" or "accursed". Not extreme profanity. @@@@
-@@@@ vergallen @@@@ Dutch, "to spoil" or "to ruin". Not profanity. @@@@
-@@@@ verpiss dich @@@@ German for "piss off". An insult, not extreme profanity. @@@@
-@@@@ wad @@@@ A small mass of soft material; money. Not profanity. @@@@
+@@@@ sås @@@@ Swedish for 'sauce'. Not profanity. @@@@
+@@@@ ta gueule @@@@ French for 'shut your face' or 'shut up'. Rude, but not extreme profanity. @@@@
+@@@@ taking the piss @@@@ British slang for 'making fun of someone' or 'joking around'. Rude, but not extreme profanity. @@@@
+@@@@ testee @@@@ A person who undergoes a test. Not profanity. @@@@
+@@@@ teuch @@@@ Scottish slang meaning 'tough' or 'resilient'. Not profanity. @@@@
+@@@@ thirdeye @@@@ A spiritual concept. Not profanity. @@@@
+@@@@ tinkle @@@@ To urinate (mild euphemism), or a light ringing sound. @@@@
+@@@@ tirare @@@@ Italian verb meaning 'to pull' or 'to shoot'. Not profanity. @@@@
+@@@@ toke @@@@ To take a drag from a cigarette or marijuana joint. Not profanity. @@@@
+@@@@ tonto @@@@ Spanish for 'fool' or 'stupid'. @@@@
+@@@@ topless @@@@ Without a top. Not profanity. @@@@
+@@@@ tortur @@@@ Swedish for 'torture'. Not profanity. @@@@
+@@@@ triootjeg @@@@ No common profanity meaning found; likely non-profane. @@@@
+@@@@ trots @@@@ Dutch for 'proud'. Not profanity. @@@@
+@@@@ tuhkaluukku @@@@ Finnish for 'ash door' or 'ash hatch'. Not profanity. @@@@
+@@@@ tusan @@@@ Swedish mild exclamation, like 'darn it' or 'heck'. @@@@
+@@@@ undressing @@@@ The act of removing clothes. Not profanity. @@@@
+@@@@ upskirts @@@@ Refers to a type of voyeuristic photograph; the word itself is descriptive, not profane. @@@@
+@@@@ uzi @@@@ A type of submachine gun. Not profanity. @@@@
+@@@@ verdammter @@@@ German for 'damned'. Strong, but not considered 'really extreme' profanity. @@@@
+@@@@ vergallen @@@@ Dutch verb meaning 'to spoil' or 'to ruin'. Not profanity. @@@@
+@@@@ verpiss dich @@@@ German for 'piss off' or 'scram'. Impolite, but not extreme profanity. @@@@
+@@@@ wad @@@@ A small, soft mass of material. Not profanity. @@@@
 ```
 
 ---
@@ -643,6 +612,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -651,21 +621,26 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ whit @@@@ Means 'a very small amount' in English. @@@@
-@@@@ whites @@@@ Refers to people of white ethnicity; a demographic term. @@@@
-@@@@ wijf @@@@ Dutch word for 'wife'. @@@@
-@@@@ willy @@@@ A common given name. @@@@
-@@@@ zip in the wire @@@@ This phrase is not recognized as a profanity. @@@@
-@@@@ zuigen @@@@ Dutch verb meaning 'to suck' (e.g., to suck candy); can be neutral. @@@@
-@@@@ баран @@@@ Russian word for 'ram' (the animal), also used to mean 'idiot' or 'blockhead'. @@@@
-@@@@ бугор @@@@ Russian word for 'mound' or 'hillock', not inherently profane. @@@@
-@@@@ бухой @@@@ Russian slang for 'drunk'. @@@@
-@@@@ быдло @@@@ Russian/Polish derogatory term for 'cattle' or 'rabble', referring to uncultured people. @@@@
-@@@@ дурак @@@@ Russian word for 'fool' or 'idiot'. @@@@
-@@@@ жопа @@@@ Russian word for 'buttocks' or 'ass'. @@@@
-@@@@ засать @@@@ Russian slang for 'to piss oneself' (out of fear) or 'to wet oneself'. @@@@
-@@@@ лох @@@@ Russian slang for 'loser' or 'gullible person'. @@@@
-@@@@ присать @@@@ Russian verb meaning 'to sprinkle' or 'to slightly piss'. @@@@
+@@@@ whit @@@@ Common English word meaning "a very small amount". Not profanity. @@@@
+@@@@ whites @@@@ Common English word. Not inherently profane. @@@@
+@@@@ wijf @@@@ Dutch for "woman" or "wife". Can be informal or mildly derogatory, similar to "chick". @@@@
+@@@@ willy @@@@ A given name. (User explicitly stated this is fine). @@@@
+@@@@ yellowman @@@@ Can be a neutral descriptive term or a mild, outdated slur, not typically considered extreme. @@@@
+@@@@ zip in the wire @@@@ As written, this is a literal phrase and not a known profanity. @@@@
+@@@@ zuigen @@@@ Dutch for "to suck". In some contexts, it can be informal or mildly vulgar (like "this sucks"), but not inherently extreme profanity in English. @@@@
+@@@@ баран @@@@ (baran) Russian for "ram" (animal), used as an insult meaning "idiot" or "blockhead". @@@@
+@@@@ бугор @@@@ (bugor) Russian for "mound" or "hill", also slang for a "foreman" or "boss". Not profanity. @@@@
+@@@@ бухой @@@@ (bukhoy) Russian slang for "drunk" or "wasted". Informal but not extreme profanity. @@@@
+@@@@ быдло @@@@ (bydlo) Russian/Ukrainian derogatory term for "uncouth, uncultured people", similar to "riff-raff". @@@@
+@@@@ гнида @@@@ (gnida) Russian for "nit" (louse egg), used as a derogatory insult meaning "scumbag" or "creep". @@@@
+@@@@ дурак @@@@ (durak) Russian for "fool" or "idiot". @@@@
+@@@@ лох @@@@ (lokh) Russian slang for "sucker" or "loser". @@@@
+@@@@ мандавошка @@@@ (mandavoshka) Russian for "crab louse", used as an insult for a petty, annoying person. @@@@
+@@@@ падла @@@@ (padla) Russian for "scum" or "bastard", often used as a general insult for a despicable person. @@@@
+@@@@ падло @@@@ (padlo) Russian, masculine form of "падла", meaning "scum" or "bastard". @@@@
+@@@@ падонок @@@@ (padonok) Russian for "scum" or "bastard". @@@@
+@@@@ подонок @@@@ (podonok) Russian for "scum" or "bastard". @@@@
+@@@@ присать @@@@ (prisat') Russian for "to write on" (e.g., graffiti). Not profanity. @@@@
 ```
 
 ---
@@ -679,6 +654,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -687,58 +663,39 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ пісюн @@@@ Willy or pee-pee (child's penis) @@@@
-@@@@ пісюна @@@@ Willy or pee-pee (child's penis) @@@@
-@@@@ пісюни @@@@ Willies or pee-pees (children's penises) @@@@
-@@@@ сиськи @@@@ Tits or boobs @@@@
-@@@@ соси @@@@ Suck (as an imperative, e.g., "suck it!") @@@@
-@@@@ срать @@@@ To shit @@@@
-@@@@ ссать @@@@ To piss @@@@
-@@@@ برهنه @@@@ Proof or demonstration @@@@
-@@@@ بزاز @@@@ Tits or breasts @@@@
-@@@@ بندر @@@@ Port or city @@@@
-@@@@ بيضان @@@@ White (plural) @@@@
-@@@@ بیگناہ @@@@ Innocent @@@@
-@@@@ جق @@@@ To masturbate (colloquial, vulgar) @@@@
-@@@@ جقی @@@@ Masturbator (colloquial, vulgar) @@@@
-@@@@ جلق @@@@ Masturbation (colloquial, vulgar) @@@@
-@@@@ حرام @@@@ Forbidden or unlawful @@@@
-@@@@ حرامزادہ @@@@ Bastard or illegitimate child @@@@
-@@@@ ختن @@@@ Circumcision @@@@
-@@@@ خرة @@@@ Shit or poop @@@@
-@@@@ شرج @@@@ Anus @@@@
-@@@@ شهوت @@@@ Lust or desire @@@@
-@@@@ طيز @@@@ Butt or ass @@@@
-@@@@ فرج @@@@ Vulva or vagina @@@@
-@@@@ لبوة @@@@ Lioness (can be a mild insult in some contexts) @@@@
-@@@@ لعق @@@@ To lick @@@@
-@@@@ لواط @@@@ Sodomy @@@@
-@@@@ لونڈ @@@@ Boy or rascal (can be a mild insult) @@@@
-@@@@ متنا @@@@ To be strong or firm @@@@
-@@@@ يا ابن البغل @@@@ Son of a mule @@@@
-@@@@ يا ابن الجحش @@@@ Son of a donkey @@@@
-@@@@ يا ابن الحرام @@@@ Bastard (son of the forbidden) @@@@
-@@@@ يا ابن الكلب @@@@ Son of a dog @@@@
-@@@@ يا ابن الوسخة @@@@ Son of a dirty woman @@@@
-@@@@ يا باغي @@@@ O rebellious one! @@@@
-@@@@ يا بزر @@@@ O seed! (can be a mild insult) @@@@
-@@@@ يا بنت البغل @@@@ Daughter of a mule @@@@
-@@@@ يا بنت الجحش @@@@ Daughter of a donkey @@@@
-@@@@ يا بنت الحرام @@@@ Bastard (daughter of the forbidden) @@@@
-@@@@ يا بنت الوسخة @@@@ Daughter of a dirty woman @@@@
-@@@@ يا جبان @@@@ O coward! @@@@
-@@@@ يا جحش @@@@ O donkey! @@@@
-@@@@ يا حشر @@@@ O insect! @@@@
-@@@@ يا حقير @@@@ O despicable one! @@@@
-@@@@ يا حقيرة @@@@ O despicable one! (feminine) @@@@
-@@@@ يا حمار @@@@ O donkey! @@@@
-@@@@ يا خنزير @@@@ O pig! @@@@
-@@@@ يا زبال @@@@ O garbage collector! (can be an insult) @@@@
-@@@@ يا زبالة @@@@ O garbage! (as an insult) @@@@
-@@@@ يا زفت @@@@ O tar! (as an insult meaning "O worthless one!") @@@@
-@@@@ يا زق @@@@ O shit! @@@@
-@@@@ يا زنديق @@@@ O heretic! @@@@
-@@@@ يا سافل @@@@ O lowly one! or O vile one! @@@@
+@@@@ برهنه @@@@ Nakedness; a descriptive term, not a swear word. @@@@
+@@@@ بندر @@@@ Port or harbor; also a common given name. @@@@
+@@@@ بيضان @@@@ White (plural) or eggs; not profanity. @@@@
+@@@@ بیگناہ @@@@ Innocent; not profanity. @@@@
+@@@@ حرام @@@@ Forbidden or unlawful; not profanity. @@@@
+@@@@ ختن @@@@ Circumcision; not profanity. @@@@
+@@@@ شهوت @@@@ Lust or desire; not profanity. @@@@
+@@@@ لبوة @@@@ Lioness; primary meaning is not profanity. @@@@
+@@@@ لعق @@@@ To lick; not profanity. @@@@
+@@@@ لونڈ @@@@ Boy; can be used as a mildly derogatory term. @@@@
+@@@@ متنا @@@@ To urinate or pee; a mildly vulgar term for a bodily function. @@@@
+@@@@ هرزه @@@@ Gossip or lewd talk; 'gossip' is not profanity. @@@@
+@@@@ يا ابن البغل @@@@ O son of a mule; a mild insult. @@@@
+@@@@ يا ابن الجحش @@@@ O son of a donkey foal/jackass; a mild insult. @@@@
+@@@@ يا ابن الحرام @@@@ O bastard/illegitimate child; a strong insult, but not extreme profanity. @@@@
+@@@@ يا باغي @@@@ O transgressor or rebellious one; not profanity. @@@@
+@@@@ يا بزر @@@@ O seed or tiny one; can be a mild insult for a small person. @@@@
+@@@@ يا بنت البغل @@@@ O daughter of a mule; a mild insult. @@@@
+@@@@ يا بنت الجحش @@@@ O daughter of a donkey foal/jackass; a mild insult. @@@@
+@@@@ يا بنت الحرام @@@@ O bastard (f)/illegitimate daughter; a strong insult, but not extreme profanity. @@@@
+@@@@ يا جبان @@@@ O coward; an insult, but not profanity. @@@@
+@@@@ يا جحش @@@@ O donkey foal/jackass; a mild insult. @@@@
+@@@@ يا حشر @@@@ O one who gathers (can mean meddler); not profanity. @@@@
+@@@@ يا حقير @@@@ O contemptible one or vile one; an insult, but not profanity. @@@@
+@@@@ يا حقيرة @@@@ O contemptible one (f) or vile one (f); an insult, but not profanity. @@@@
+@@@@ يا حمار @@@@ O donkey or ass; an insult implying stupidity. @@@@
+@@@@ يا خنزير @@@@ O pig; an insult implying greed or dirtiness. @@@@
+@@@@ يا زبال @@@@ O garbage collector; used as an insult meaning scum. @@@@
+@@@@ يا زبالة @@@@ O garbage or trash; an insult. @@@@
+@@@@ يا زفت @@@@ O asphalt or pitch; used as an insult meaning worthless/scum. @@@@
+@@@@ يا زنديق @@@@ O heretic or infidel; a strong accusation, but not profanity. @@@@
+@@@@ يا سافل @@@@ O despicable one or lowlife; an insult. @@@@
+@@@@ يا ساقطة @@@@ O fallen (f); an insult implying moral degeneracy. @@@@
 ```
 
 ---
@@ -752,6 +709,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -760,53 +718,53 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ يا سلخ @@@@ Oh brute/oaf - An insult for a rough or uncivilized person. @@@@
-@@@@ يا كافر @@@@ Oh infidel/disbeliever - A strong religious insult, but not vulgar like sexual or anatomical terms. @@@@
-@@@@ يا كلب @@@@ Oh dog - A common insult, referring to someone contemptible or disloyal. @@@@
-@@@@ يا وسخ @@@@ Oh dirty one - An insult implying someone is morally or physically unclean. @@@@
-@@@@ يا وسخة @@@@ Oh dirty one - An insult implying someone is morally or physically unclean (female). @@@@
-@@@@ يا ولد الحمار @@@@ Oh son of a donkey - A strong insult implying stupidity. @@@@
-@@@@ يا ولد القرد @@@@ Oh son of a monkey - A strong insult implying foolishness or ugliness. @@@@
-@@@@ يا ولد الوسخ @@@@ Oh son of dirt - A strong insult implying someone is a morally filthy person. @@@@
-@@@@ پنکچر @@@@ Puncture - Refers to a hole in something, not a profanity. @@@@
-@@@@ چوتر @@@@ Buttocks (vulgar) - A vulgar term for the rear end, less extreme than 'cunt'. @@@@
-@@@@ کتھ پتھ @@@@ Wood path - This phrase is not a known profanity. @@@@
-@@@@ کمینے @@@@ Scoundrels/Vile ones - A strong insult for a despicable person. @@@@
-@@@@ کون @@@@ Who? - An interrogative pronoun, not a profanity. @@@@
-@@@@ کٹھن @@@@ Difficult/Hard - An adjective, not a profanity. @@@@
-@@@@ کچر @@@@ Junk/Trash - Refers to rubbish, sometimes used as a mild insult for a person. @@@@
-@@@@ کھوتا @@@@ Donkey - Used as an insult for a foolish or stubborn person. @@@@
-@@@@ کیر @@@@ Worm/Insect - Can be used as a derogatory term but not explicitly vulgar. @@@@
-@@@@ कमीना @@@@ Scoundrel/Vile - A strong insult for a despicable male. @@@@
-@@@@ कमीनी @@@@ Scoundrel/Vile - A strong insult for a despicable female. @@@@
-@@@@ कमीने @@@@ Scoundrels/Vile ones - A strong insult for despicable people. @@@@
-@@@@ चुटिया @@@@ Idiot/Fool - A strong insult, but primarily derogatory for intelligence rather than explicit vulgarity. @@@@
-@@@@ चोर @@@@ Thief - Refers to someone who steals, not a profanity. @@@@
-@@@@ छुट @@@@ Small/Minor - An adjective, not a profanity. @@@@
-@@@@ फट्टू @@@@ Coward - A mild insult for someone easily scared. @@@@
-@@@@ फड़ @@@@ Tear/Rip - A verb, not a profanity. @@@@
-@@@@ बकवासी @@@@ Nonsensical talker/Chatterbox - Refers to someone who talks a lot of nonsense. @@@@
-@@@@ मक्खी @@@@ Fly - Refers to an insect, not a profanity. @@@@
-@@@@ गोदा @@@@ Clumsy/Oaf - An insult for a slow or awkward person. @@@@
-@@@@ চাপা @@@@ Pressed/Hidden - An adjective, not a profanity. @@@@
-@@@@ ছাগল @@@@ Goat - Used as an insult for an idiot or foolish person. @@@@
-@@@@ পাগল @@@@ Crazy/Mad - A common insult, not extreme vulgarity. @@@@
-@@@@ পিশাচ @@@@ Demon/Fiend - A strong insult, but not vulgar like 'cunt'. @@@@
-@@@@ বাচ্চা @@@@ Child/Kid - Refers to a young human, not a profanity. @@@@
-@@@@ বাস্তা @@@@ Sack/Bag - Refers to a container, not a profanity. @@@@
-@@@@ বাস্তা পিস @@@@ Sack piece - A derogatory term for a person, but not explicitly vulgar. @@@@
-@@@@ বুলি কি বুলি @@@@ What is the saying? - A phrase, not a profanity. @@@@
-@@@@ সড়কের পিস @@@@ Street piece - A derogatory term implying low social standing or promiscuity, but not explicitly vulgar. @@@@
-@@@@ กู @@@@ I/Me - An informal/impolite pronoun, but not a profanity in itself. @@@@
-@@@@ ขี้ @@@@ Feces/Poop - A vulgar term for bodily waste, but generally considered less extreme than 'cunt' or 'penis'. @@@@
-@@@@ จู๋ @@@@ Penis - A childish or milder term for the male genitalia, less vulgar than other terms for 'penis'. @@@@
-@@@@ ตอแหล @@@@ Liar/Bullshitter - A strong insult for someone who tells lies. @@@@
-@@@@ ตูด @@@@ Ass/Buttocks - A mildly vulgar term for the rear end, less extreme than 'cunt'. @@@@
-@@@@ ล้างตู้เย็น @@@@ To clean the refrigerator - The literal meaning is not profane; its euphemistic use is contextual. @@@@
-@@@@ あほ @@@@ Idiot/Fool - A common mild insult. @@@@
-@@@@ いたずら @@@@ Mischief/Prank - Refers to playful naughtiness, not a profanity. @@@@
-@@@@ お尻 @@@@ Buttocks/Rear end - A polite term for the rear end, not a profanity. @@@@
-@@@@ くそ @@@@ Shit/Damn - An expletive or vulgar term for feces, generally considered less extreme than 'cunt' or 'penis'. @@@@
+@@@@ يا سلخ @@@@ Arabic for "Oh flayer" or "Oh butcher," used as an insult.
+@@@@ يا كافر @@@@ Arabic for "Oh infidel," a religious insult.
+@@@@ يا كلب @@@@ Arabic for "Oh dog," used as a strong insult.
+@@@@ يا وسخ @@@@ Arabic for "Oh dirty/filthy (male)," used as a strong insult.
+@@@@ يا وسخة @@@@ Arabic for "Oh dirty/filthy (female)," used as a strong insult.
+@@@@ يا ولد الحرام @@@@ Arabic for "Oh son of illegitimate birth," a severe insult.
+@@@@ يا ولد الحمار @@@@ Arabic for "Oh son of a donkey," a severe insult implying stupidity.
+@@@@ يا ولد القرد @@@@ Arabic for "Oh son of a monkey," an insult implying ugliness or low status.
+@@@@ يا ولد الكلب @@@@ Arabic for "Oh son of a dog," a strong insult.
+@@@@ يا ولد الكلبة @@@@ Arabic for "Oh son of a bitch (female dog)," a strong insult.
+@@@@ يا ولد الوسخ @@@@ Arabic for "Oh son of filth," an insult implying vileness.
+@@@@ پنکچر @@@@ Urdu/Punjabi for "puncture" (as in a flat tire).
+@@@@ کتھ پتھ @@@@ Urdu for "puppet."
+@@@@ کمینے @@@@ Urdu for "wretch" or "scoundrel" (plural/vocative).
+@@@@ کون @@@@ Urdu for "who."
+@@@@ کٹھن @@@@ Urdu for "difficult" or "hard."
+@@@@ کچر @@@@ Urdu for "rubbish" or "junk."
+@@@@ کھوتا @@@@ Urdu for "donkey," used as an insult for stupidity.
+@@@@ کیر @@@@ Urdu for "worm" or "insect," used as an insult.
+@@@@ گدھے @@@@ Urdu for "donkeys" (plural), used as an insult for stupidity.
+@@@@ कमीना @@@@ Hindi for "wretch" or "scoundrel" (masculine singular).
+@@@@ कमीनी @@@@ Hindi for "wretch" or "scoundrel" (feminine singular).
+@@@@ कमीने @@@@ Hindi for "wretch" or "scoundrel" (plural/vocative).
+@@@@ कुत्ते के बच्चे @@@@ Hindi for "son of a dog," a strong insult.
+@@@@ चोर @@@@ Hindi for "thief."
+@@@@ छुट @@@@ Hindi for "small" or "left over."
+@@@@ फट्टू @@@@ Hindi for "coward," an insult.
+@@@@ फड़ @@@@ Hindi for "tear" or "excellent."
+@@@@ बकवासी @@@@ Hindi for "one who talks nonsense" or "chatterbox."
+@@@@ मक्खी @@@@ Hindi for "fly" (insect).
+@@@@ গোদা @@@@ Bengali for "bulky" or "stout."
+@@@@ চাপা @@@@ Bengali for "pressed" or "suppressed."
+@@@@ ছাগল @@@@ Bengali for "goat," used as an insult for stupidity.
+@@@@ পাগল @@@@ Bengali for "crazy" or "mad," an insult.
+@@@@ পিশাচ @@@@ Bengali for "demon" or "ghoul," used as an insult.
+@@@@ বাচ্চা @@@@ Bengali for "child" or "baby."
+@@@@ বাস্তা @@@@ Bengali for "sack" or "bag."
+@@@@ বাস্তা পিস @@@@ Bengali for "sack piece."
+@@@@ বাস্তার মাগো @@@@ Bengali for "mother of the sack."
+@@@@ বুলি কি বুলি @@@@ Bengali for "what a saying, what a saying" or "what a speech."
+@@@@ সড়কের পিস @@@@ Bengali for "road piece."
+@@@@ กู @@@@ Thai for "I" or "me" (informal, can be rude depending on context).
+@@@@ ตอแหล @@@@ Thai for "liar" or "deceptive" (derogatory).
+@@@@ ล้างตู้เย็น @@@@ Thai for "clean the refrigerator."
+@@@@ あほ @@@@ Japanese for "idiot" or "fool," a common insult.
+@@@@ いたずら @@@@ Japanese for "mischief" or "prank."
+@@@@ お尻 @@@@ Japanese for "buttocks" or "rear end" (neutral term).
 ```
 
 ---
@@ -820,6 +778,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -844,6 +803,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -868,6 +828,7 @@ USE THIS FORMAT FOR YOUR RESPONSE: @@@@ WORD @@@@ EXPLANATION @@@@
 If you don't find any non-extreme words, just say 'No non-extreme words found.'
 If you find any non-extreme words, list them one by one, with the format above. No other text.
 Use one formatted response line per word.
+BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.
 
 
 Here is the list of words to review:
@@ -876,19 +837,16 @@ Here is the list of words to review:
 
 **Gemini Response:**
 ```markdown
-@@@@ 개차반 @@@@ Insult meaning 'trashy person' or 'good-for-nothing'. Not a direct profanity. @@@@
-@@@@ 거유 @@@@ Descriptive term for 'large breasts'. Not a swear word. @@@@
-@@@@ 노모 @@@@ Means 'old mother'. Not profanity. @@@@
-@@@@ 뒤질래 @@@@ Question meaning 'do you want to die?' A threat, not a swear word. @@@@
-@@@@ 또라이 @@@@ Insult meaning 'lunatic' or 'idiot'. Not a direct profanity. @@@@
-@@@@ 미친 @@@@ Means 'crazy' or 'insane'. Not a direct profanity. @@@@
-@@@@ 변태 @@@@ Insult meaning 'pervert'. Not a direct profanity. @@@@
-@@@@ 쌍놈 @@@@ Insult meaning 'bastard' or 'low-born person'. Not a direct profanity. @@@@
-@@@@ 야동 @@@@ Abbreviation for 'pornographic video'. Descriptive, not a swear word. @@@@
-@@@@ 에로 @@@@ From 'erotic'. Descriptive, not a swear word. @@@@
-@@@@ 옘병 @@@@ Exclamation like 'damn it!' or 'pestilence'. Not extreme profanity. @@@@
-@@@@ 창녀 @@@@ Descriptive term for 'prostitute'. Not a swear word itself. @@@@
-@@@@ 희쭈그리 @@@@ Means 'wrinkled' or 'shriveled'. Not profanity. @@@@
+@@@@ 거유 @@@@ Translate to 'big breasts'. It is a descriptive term, not an extreme profanity. @@@@
+@@@@ 노모 @@@@ Translate to 'old mother'. It is a respectful term, not profanity. @@@@
+@@@@ 또라이 @@@@ Translate to 'lunatic' or 'crazy person'. It is an insult, not an extreme profanity. @@@@
+@@@@ 미친 @@@@ Translate to 'crazy' or 'insane'. It is an adjective, not an extreme profanity. @@@@
+@@@@ 변태 @@@@ Translate to 'pervert'. It describes behavior, not an extreme profanity. @@@@
+@@@@ 야동 @@@@ Translate to 'pornography'. It is a descriptive term for media, not profanity. @@@@
+@@@@ 에로 @@@@ Translate to 'erotic'. It is a descriptive term, not profanity. @@@@
+@@@@ 옘병 @@@@ Translate to 'damn it' or 'curse it'. It is an expletive, but not extreme profanity. @@@@
+@@@@ 창녀 @@@@ Translate to 'prostitute'. It is a descriptive term for a profession, not an extreme profanity. @@@@
+@@@@ 희쭈그리 @@@@ Translate to 'wrinkled' or 'shriveled'. It is a descriptive adjective, not profanity. @@@@
 ```
 
 ---

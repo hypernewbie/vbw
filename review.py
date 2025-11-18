@@ -30,19 +30,22 @@ def parse_words_to_remove(responses: list[str]) -> set[str]:
     Parses Gemini responses to extract words identified as non-extreme.
     """
     words_to_remove = set()
-    # Regex to find all content between @@@@ markers.
-    # It will produce a flat list like ['WORD1', 'EXPLANATION1', 'WORD2', 'EXPLANATION2', ...]
     pattern = r"@@@@\s*(.*?)\s*@@@@"
 
     for text in responses:
         if "No non-extreme words found." in text:
             continue
         
-        found = re.findall(pattern, text)
-        # The words are the 0th, 2nd, 4th, etc. elements in the list.
-        words = found[0::2]
-        for word in words:
-            words_to_remove.add(word.lower())
+        # Process each line within the response
+        for line in text.splitlines():
+            if '@@@@' not in line:
+                continue
+            
+            found = re.findall(pattern, line)
+            # On a valid line, 'found' will be a list like ['WORD', 'EXPLANATION']
+            if found and len(found) > 0:
+                word = found[0]
+                words_to_remove.add(word.lower())
             
     return words_to_remove
 
@@ -95,6 +98,7 @@ def main() -> None:
         "If you don't find any non-extreme words, just say 'No non-extreme words found.'\n"
         "If you find any non-extreme words, list them one by one, with the format above. No other text.\n"
         "Use one formatted response line per word.\n"
+        "BE CAREFUL NOT TO TRIP YOUR OWN CENSORSHIP FILTERS. If they trigger your filters, then it defines as extreme or vulgar and should not be on your list.\n"
     )
     
     all_responses = []
@@ -112,7 +116,10 @@ def main() -> None:
                     response_text = f"ERROR CALLING GEMINI API: {e}"
                     print(f"  ERROR on chunk {i+1}: {e}")
             else:
-                response_text = "@@@@ Doof @@@@ A mild, silly insult for a foolish person. @@@@" # Dummy response for testing
+                response_text = "@@@@ Doof @@@@ A mild, silly insult for a foolish person. @@@@\n" # Dummy response for testing
+                response_text += "@@@@ harem @@@@ A group of women associated with one man. Not a profanity. @@@@\n"
+                response_text += "@@@@ harry palms @@@@ A name or descriptive term. Not profanity. @@@@\n"
+                response_text += "@@@@ hatullinen @@@@ Finnish for \"a spoonful\" or \"a ladleful.\" Not profanity. @@@@\n"
 
             all_responses.append(response_text)
 
@@ -137,7 +144,7 @@ def main() -> None:
     # Filter the original list
     final_terms = [term for term in terms if term.lower() not in words_to_remove]
     
-    print(f"Writing {len(final_terms)} extreme words to {output_path.name}...")
+    print(f"Writing {len(final_terms)} / {len(terms)} very bad words to {output_path.name}...")
     with output_path.open("w", encoding="utf-8", newline="") as outfile:
         writer = csv.writer(outfile)
         for term in sorted(final_terms):

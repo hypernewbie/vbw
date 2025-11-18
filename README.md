@@ -29,6 +29,21 @@ However, a full classifier model is also overkill for simpler domains, such as u
 VBW is licensed under MIT.
 
 ---
+## Building
+
+Paste your Gemini API key from AI Studio (https://aistudio.google.com/) into api_key.txt.
+
+```
+pip install transformers torch google-generativeai
+py aggregate.py
+py classify.py
+py review.py
+```
+
+This will read the data sources and collect them into a single profanity_aggregate.csv, then run classifier to filter the easy ones out, then run Gemini 2.5 Flash queries to fully review the results.
+It will then filter the reviews by the LLM review, leaving only the very bad words in vbw.csv, not mild ones and definitely not someone's name.
+
+---
 
 ## Data Sources
 
