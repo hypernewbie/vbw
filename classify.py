@@ -3,20 +3,26 @@ import os
 from pathlib import Path
 from typing import Iterable, Mapping, Any, Tuple
 
-from colorama import Fore, Style, init as colorama_init
-from transformers import pipeline
-
-# Force Hugging Face / huggingface_hub to use a local cache directory inside this project.
+# CRITICAL: Set environment variables BEFORE importing transformers/huggingface_hub
+# The libraries read these on import, so they must be set first.
 LOCAL_CACHE_DIR = Path(__file__).resolve().parent / "hf_model_cache"
+LOCAL_CACHE_DIR.mkdir(exist_ok=True)
+
+# Set environment variables for Hugging Face cache locations
+# HF_HOME is the main cache directory (TRANSFORMERS_CACHE is deprecated)
 os.environ["HF_HOME"] = str(LOCAL_CACHE_DIR)
 os.environ["HF_HUB_CACHE"] = str(LOCAL_CACHE_DIR)
+os.environ["HF_DATASETS_CACHE"] = str(LOCAL_CACHE_DIR)
+
+# Now import after environment variables are set
+from colorama import Fore, Style, init as colorama_init
+from transformers import pipeline
 
 # Initialise color output (Windows-friendly).
 colorama_init(autoreset=True)
 
 # Minimum score required to consider something truly "not safe".
-NOT_SAFE_THRESHOLD = 0.86
-
+NOT_SAFE_THRESHOLD = 0.81
 
 def load_profanity_terms(csv_path: Path) -> list[str]:
     terms: list[str] = []
@@ -62,6 +68,7 @@ def main() -> None:
         # device_map is omitted because this model does not support `device_map="auto"`
         top_k=None,  # get full label distribution if provided
         truncation=True,
+        # cache_dir is handled via environment variables set above
     )
 
     base_dir = Path(__file__).resolve().parent
