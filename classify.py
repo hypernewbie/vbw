@@ -73,7 +73,7 @@ def main() -> None:
 
     base_dir = Path(__file__).resolve().parent
     csv_path = base_dir / "profanity_aggregate.csv"
-    unsafe_csv_path = base_dir / "vbw.csv"
+    unsafe_csv_path = base_dir / "vbw_classify.csv"
     log_path = base_dir / "vbw_classify_log.txt"
 
     terms = load_profanity_terms(csv_path)
@@ -94,7 +94,7 @@ def main() -> None:
                 not_safe, safe = _extract_scores(pred)
                 label = _decide_label(not_safe, safe)
 
-                # Write only clearly unsafe terms to vbw.csv
+                # Write only clearly unsafe terms to vbw_classify.csv
                 if label == "not safe":
                     unsafe_out.write(term + "\n")
 

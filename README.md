@@ -1,6 +1,7 @@
 # VBW: Very Bad Words
 
 VBW: Very Bad Words is an AI‑curated multilingual profanity wordlist focused on actual strong profanity and highly abusive language. The wordlist can be used to filter content such as usernames, with less risk of being over‑aggressive.
+Uses AI vibe coded processing scripts, but curated by a programmer.
 
 > ⚠️ **Content warning:**  
 > This repository contains files with strong profanity, because that is the point.

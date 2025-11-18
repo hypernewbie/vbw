@@ -1,6 +1,5 @@
 # Generated files
 profanity_aggregate.csv
-vbw_classify_log.txt
 
 # Cache directories
 hf_model_cache/
@@ -28,3 +27,6 @@ venv/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# API keys
+api_key.txt
